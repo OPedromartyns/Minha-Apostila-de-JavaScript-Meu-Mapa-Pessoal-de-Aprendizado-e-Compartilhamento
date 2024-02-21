@@ -1,4 +1,6 @@
 # Manual de Sobrevivência JavaScript
+![Texto Alternativo](URL_da_Imagem)
+
 
 Bem-vindo ao meu Manual de Sobrevivência JavaScript! 👋
 

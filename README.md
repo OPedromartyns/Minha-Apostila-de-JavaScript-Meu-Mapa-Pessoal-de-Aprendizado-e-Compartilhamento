@@ -1,5 +1,5 @@
 # Manual de Sobrevivência JavaScript
-![Texto Alternativo](URL_da_Imagem)
+![Texto Alternativo](https://raw.githubusercontent.com/OPedromartyns/Minha-Apostila-de-JavaScript-Meu-Mapa-Pessoal-de-Aprendizado-e-Compartilhamento/main/apostila/capa%20da%20apostila.jpg)
 
 
 Bem-vindo ao meu Manual de Sobrevivência JavaScript! 👋
